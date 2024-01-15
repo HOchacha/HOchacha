@@ -1,4 +1,8 @@
-### Hi there 👋
+# About me
+- Undergraduate Student, Junior, in Dankook University, 2024
+- Undergraduate researcher, in [BoanLab](https://boanlab.com/), since Aug. 2023
+# Working on Project
+- classified!
 
 <!--
 **HOchacha/HOchacha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
