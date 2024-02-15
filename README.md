@@ -7,6 +7,6 @@
 - Programming Lang. : C, C++, Java, Python, go
 - Frameworks : Kubernetes(begineer), Spring(java)
 ### Personal Pages for Info.
-- Notion
+- [Personal Study Achieve](https://hochacha.notion.site)
 ### Hobby 
 - Photograph
