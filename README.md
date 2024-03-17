@@ -4,8 +4,9 @@
 ### Working on Project
 - TO BE REVEALED
 ### Skills
-- Programming Lang. : C, C++, Java, Python, go
-- Frameworks : Kubernetes(begineer), Spring(java)
+- Main Programming Lang. : Go, C, Python
+- What I ever used at once : C++, Java, C#
+- Frameworks : Kubernetes(begineer), Spring(java), Istio
 ### Personal Pages for Info.
 - [Notion] [Personal Study Achieve](https://hochacha.notion.site)
 ### Hobby 
