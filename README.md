@@ -4,7 +4,7 @@
 - Undergraduate researcher(not in project), in [MOSL](https://sites.google.com/site/dkumobileos/), since May. 2024
 ### Working on Project
 - Crypto-Agility (in BoanLab)
-- Study Kubernetes and Infrastructure (in MOSL)
+- Study Kubernetes and Infrastructure (for Preparing Develop Educational Infrastructure, in MOSL)
 ### Skills
 - Main Programming Lang. : Go, C, Python
 - What I ever used at least once : C++, Java, C#
