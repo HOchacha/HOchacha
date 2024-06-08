@@ -6,7 +6,7 @@
 ### Skills
 - Main Programming Lang. : Go, C, Python
 - What I ever used at least once : C++, Java, C#
-- Frameworks : Kubernetes(begineer), Spring(java), Istio(working on special project)
+- Frameworks : Kubernetes, Spring(java), Istio(working on special project)
 ### Personal Pages for Info.
 - [Notion] [Personal Study Achieve](https://hochacha.notion.site)
 ### Hobby 
