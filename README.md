@@ -10,7 +10,7 @@
 - What I ever used at least once : C++, Java, C#
 - Frameworks : Kubernetes, Spring(java), Istio(working on special project)
 ### Personal Pages for Info.
-- [Notion] [Personal Study Achieve](https://hochacha.notion.site)
+- [Personal Study Achieve](https://hochacha.notion.site)
 - [Personal Webpage](http://hochacha.com)
 ### Hobby 
 - Photograph
