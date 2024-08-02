@@ -2,9 +2,6 @@
 - Undergraduate Student, Junior, in Dankook University, 2024(Current)
 - Undergraduate researcher, in [BoanLab](https://boanlab.com/), since Dec. 2023
 - Undergraduate Member(not in project), in [MOSL](https://sites.google.com/site/dkumobileos/), since May. 2024
-### Working on Project
-- Crypto-Agility (in BoanLab)
-- Study Kubernetes and Infrastructure (for Preparing Develop Educationa-purpose Infrastructure, in MOSL)
 ### Skills
 - Main Programming Lang. : Go, C, Python
 - What I ever used at least once : C++, Java, C#
@@ -14,6 +11,3 @@
 - [Personal Webpage](http://hochacha.com) (Currently Down)
 ### Hobby 
 - Photograph
-### Papers
-- [done]
-- [?]
